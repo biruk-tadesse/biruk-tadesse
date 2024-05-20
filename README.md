@@ -11,7 +11,7 @@ Hi, I'm Biruk / ብሩክ.
 </p>
 <hr/>
 <samp>
-I am a seasoned professional with a strong background in Computer Science, holding both a Bachelor's and Master's degree. I excel at meeting project deadlines and collaborating effectively in remote settings. My standout quality lies in my ability to communicate complex technical concepts clearly to both technical and non-technical stakeholders. I bring a potent mix of academic achievements, practical experience, and communication skills to contribute significantly to high-impact projects.
+I am a seasoned professional with a strong background in Computer Science, bringing a potent mix of academic achievements, practical experience, and communication skills to contribute significantly to high-impact projects.
 </samp>
 
 
