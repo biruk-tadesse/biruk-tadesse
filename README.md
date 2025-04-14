@@ -7,7 +7,6 @@
 <body>
   <header>
     <div class="profile">
-      <img src="https://avatars.githubusercontent.com/u/101355620?v=4" alt="Your Profile Picture" style="width: 100px; height: 100px; border-radius: 50%; margin-bottom: 15px;">
       <h1>Biruk Tadesse Tefera</h1>
       <br/>
       <h2>IT Professional</h2>
@@ -199,5 +198,4 @@
     <p>&copy; 2025 Biruk Tadesse Tefera</p>
   </footer>
 </body>
-</html>
 </html>
