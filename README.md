@@ -54,6 +54,14 @@
     <ul class="cert-list">
       <li>
         <div>
+          <p>ISO/IEC 27001:2022 Lead Auditor</p>
+          <p>Issuer: <a href="https://mastermindassurance.com/" target="_blank">Mastermind Assurance</a></p>
+          <p>May 13, 2025</p>
+        </div>
+        <a href="https://www.credly.com/badges/c978b863-326d-4036-ae76-868b8dbf0d71" class="cert-link" target="_blank">View Certificate</a>
+      </li>
+       <li>
+        <div>
           <p>AWS Educate Web Builder</p>
           <p>Issuer: <a href="https://aws.amazon.com/" target="_blank">AWS</a></p>
           <p>March 25, 2025</p>
